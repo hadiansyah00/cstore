@@ -8,12 +8,12 @@
 
   // $version_php = '7.4'; // 5.6 atau 7.4
   
-  $main_url = "http://localhost/cstore/";
-  $main_imgurl = "http://localhost/cstore/assets/uploaded/";
+  $main_url = "http://mukadoku.visual-creative.my.id/";
+  $main_imgurl = "http://mukadoku.visual-creative.my.id/assets/uploaded/";
 
   function loadData($url,$data) {
 
-    $for = "http://localhost/cstore/adminpage/";
+    $for = "http://mukadoku.visual-creative.my.id/adminpage/";
 
     // API URL
     $url = $for.$url;
