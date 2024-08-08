@@ -25,8 +25,8 @@ date_default_timezone_set('Asia/Jakarta');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['nhub_url'] = 'http://localhost/cstore/';
-$config['base_url'] = 'http://localhost/cstore/adminpage/';
+$config['nhub_url'] = 'http://mukadoku.visual-creative.my.id/';
+$config['base_url'] = 'http://mukadoku.visual-creative.my.id/adminpage/';
 
 /*
 |--------------------------------------------------------------------------
